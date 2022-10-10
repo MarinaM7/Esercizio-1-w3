@@ -1,0 +1,26 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 0 auto;
+    align-items: center;
+    background-color: rgb(103, 50, 50);
+    margin-bottom: 10px;
+}
+
+figcaption {
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    color: antiquewhite;
+}
+
+button {
+    background-color: rgb(73, 101, 91);
+    color: antiquewhite;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    margin-left: 20px;
+}
